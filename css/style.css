@@ -1,75 +1,20 @@
-body {
-    color: #525252;
-    font: normal 2rem/2 Roboto,"Helvetica Neue",Arial,sans-serif;
-    -webkit-font-smoothing: antialiased;
-    padding: 0;
-    margin: 0;
-    background-color:#fafafa;
-}
-
-.about_intro{
-  padding: 30px;
-}
-
-.about_image{
-    border-radius: 2rem;
-    padding: 15px;
-}
-
-img{
-    border-style: none;
-    align-content: :"left";
-    width: 20%;
-    max-width: 100%;
-    height: auto;
-    
-}
-
 p{
-    font: normal 2rem/2 Roboto,"Helvetica Neue",Arial,sans-serif;
-    display: block;
-    float: right;
-    width: 75%;
-    padding-top:0px;
-    margin:0;
-    padding-right:0px;
+	
 
-    
-
+	font-size: 40px;
+	padding-bottom: 10px;
 }
 
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
+.habilidades{
+	font-size: 20px;
+	display: block;
+  	padding: 10px 15px;
+  	
 }
 
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: none;
+.contato{
+	font-size: 20px;
+	display: block;
+  	padding: 10px 15px;
+  	
 }
-
-a:active {
-  color: black;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-ul li{
-    margin-bottom: 1rem;
-    
-    margin:10px;
-}
-
-li{
-    display: list-item;
-    text-align: -webkit-match-parent;
-}
-
-ul {
-    padding-left: 0;
-    list-style-position: inside;
-}
-
